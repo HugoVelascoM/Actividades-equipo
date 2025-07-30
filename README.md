@@ -1,5 +1,6 @@
 # Actividades-equipo
-![Readme equipo](https://github.com/user-attachments/assets/0449faad-729f-4775-92a8-c65aacad211b)
+
+![1630654224002](https://github.com/user-attachments/assets/800d5da3-d8e5-4528-9b5a-c17c91f9ca79)
 
 _Este repositorio contiene las actividades, ejercicios y proyectos desarrollados a lo largo de nuestra participación en el bootcamp de especialista en soporte TI. Aquí se documenta nuestro proceso de aprendizaje. El objetivo de este repositorio es mostrar nuestro progreso, servir como portafolio personal y facilitar el seguimiento de nuestra evolución como desarrollador._
 
