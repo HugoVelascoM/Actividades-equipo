@@ -4,42 +4,18 @@
 
 _Este repositorio contiene las actividades, ejercicios y proyectos desarrollados a lo largo de nuestra participación en el bootcamp de especialista en soporte TI. Aquí se documenta nuestro proceso de aprendizaje. El objetivo de este repositorio es mostrar nuestro progreso, servir como portafolio personal y facilitar el seguimiento de nuestra evolución como desarrollador._
 
-## Comenzando 🚀
+## Participantes 🚀
+Eduardo Garcia Garcia 
+https://github.com/MuerteHuasteca
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+Hugo Velasco Montenegro
 
 
-### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
 
-```
-Da un ejemplo
-```
 
-### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+## 
 
 ### Analice las pruebas end-to-end 🔩
 
