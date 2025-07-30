@@ -1,6 +1,6 @@
 # Actividades-equipo
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este repositorio contiene las actividades, ejercicios y proyectos desarrollados a lo largo de nuestra participación en el bootcamp de especialista en soporte TI. Aquí se documenta nuestro proceso de aprendizaje. El objetivo de este repositorio es mostrar nuestro progreso, servir como portafolio personal y facilitar el seguimiento de nuestra evolución como desarrollador._
 
 ## Comenzando 🚀
 
